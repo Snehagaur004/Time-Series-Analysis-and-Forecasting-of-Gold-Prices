@@ -6,10 +6,15 @@
 ✅ Action –
 
 --> Preprocessed and resampled data using Pandas for trend and seasonality detection.
+
 --> Visualized patterns with Matplotlib & Seaborn to uncover key insights.
+
 --> Applied Linear Regression for trend estimation and Naïve Bayes for probabilistic modeling.
+
 --> Used Exponential Smoothing & Holt’s Method for time series forecasting.
+
 --> Trained models on historical data and tuned hyperparameters to enhance prediction accuracy.
+
 ✅ Result – Improved forecasting precision through model optimization, enabling better gold price trend analysis and decision-making.
 
 Linear Regression Forecast
