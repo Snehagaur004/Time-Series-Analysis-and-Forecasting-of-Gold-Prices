@@ -1,7 +1,7 @@
 # Time-Series-Analysis-and-Forecasting-of-Gold-Prices
 ✅ Situation – Analyzed 70+ years of historical gold price data (1950-2020) to detect trends, seasonality, and forecast future prices.
 
-✅ Task – Develop a predictive model by combining time series forecasting and machine learning, optimizing model performance through training and tuning.
+✅ Task – Develop an AI-driven predictive model by combining time series forecasting and machine learning, optimizing model performance through training and tuning.
 
 ✅ Action –
 
